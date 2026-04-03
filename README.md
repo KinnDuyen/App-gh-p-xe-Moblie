@@ -1,0 +1,1 @@
+Đây là ứng dụng hỗ trợ người dùng tìm kiếm và chia sẻ chuyến xe (Carpooling), giúp tối ưu chi phí đi lại và kết nối cộng đồng tài xế với hành khách một cách nhanh chóng. Dự án tập trung vào tính tiện dụng, bảo mật dữ liệu và trải nghiệm giao diện người dùng hiện đại, mượt mà.
