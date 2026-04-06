@@ -43,7 +43,7 @@ fun ThongBaoScreen(
             contentScale = ContentScale.Fit
         )
 
-        // 🔹 Tiêu đề
+        // Tiêu đề
         Text(
             text = "Thông Báo",
             fontWeight = FontWeight.Bold,
@@ -54,7 +54,7 @@ fun ThongBaoScreen(
                 .padding(top = 50.dp)
         )
 
-        // 🔹 Gạch dưới tiêu đề
+        // Gạch dưới tiêu đề
         Divider(
             color = Color(0xFF4ABDE0),
             thickness = 3.dp,
@@ -64,7 +64,7 @@ fun ThongBaoScreen(
                 .width(150.dp)
         )
 
-        // 🔹 Các thông báo
+        // Các thông báo
         Column(
             modifier = Modifier
                 .align(Alignment.TopStart)
